@@ -3,7 +3,19 @@
 
 문자인식
 해당 그림은 1번샘플을 Test 한 insight
+
+
+
+
+
 ![IMG_1](https://user-images.githubusercontent.com/87853267/162883221-2c97f649-87cc-4a45-93e9-a29b027d2a71.png)
+
+
+
+
+
+
+
 
 1234-1234-5678 ^ 20200101
 
